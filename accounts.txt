@@ -1,0 +1,15 @@
+Sam;1234
+John;5667
+
+Tata,1000
+Tata12;1000
+Chad;1234
+Chad;1234
+sai;sai
+Sai;Sai
+Shri;$2y$10$ZHtOOfNF13JM.k3MEsb1zu9i0N8lAS4L4YprP69c5n0Ep2H6giq3S
+shri;$2y$10$nKu/5ak2vT78jUnVO4kUDu0yWe4DNfrfCVUrI9huxutmWshafgpn6
+Shri;$2y$10$XOWAN/PneH2Df9/BQjfW9OPGeGHwXfqqpFvYTyjRu76PSVsXbcKkS
+User1;$2y$10$EGDSNhq7Kopvh1csJUOJWuMe7/FbfkRcf3SgQTMpN01WirLE8HLdu
+niki;$2y$10$R0T7euM7o/1jDIO/7Zf7jecZbqEHewK3XucHAVsJMTS6SdbCcqMBu
+bhav;$2y$10$ciEgLruCfQGpO6t4dLbw6.2fcKLr2kILSFAGekVWdlT5SUjvLRf0O

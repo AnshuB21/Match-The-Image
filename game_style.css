@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(120deg, #92f29d, #4b5150);
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.head {
+  background-color: #72f327bb;
+  padding: 20px;
+}
+.head h2 {
+  margin: 0;
+  font-size: 28px;
+}
+.score {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.instructions h3 {
+  font-size: 24px;
+  text-decoration: underline;
+}
+.instructions h4 {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+.type {
+  margin-top: 30px;
+}
+.type a {
+  display: block;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  background-color: #333;
+  padding: 10px;
+  margin: 10px auto;
+  width: 250px;
+  border-radius: 5px;
+}
+.type a:hover {
+  background-color: #555;
+}
+.redirect {
+  margin-top: 20px;
+}
+.redirect a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.redirect a:hover {
+  text-decoration: underline;
+}
+.validators {
+  margin-top: 20px;
+}
+.validators img {
+  margin: 10px auto;
+}
+.leaderboard {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  text-align: center;
+}
+
+.leaderboard h3 {
+  margin-bottom: 10px;
+}
+
+.leaderboard div {
+  margin-bottom: 5px;
+  font-size: 14px;
+}

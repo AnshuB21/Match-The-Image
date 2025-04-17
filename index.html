@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><br><br><br><br><br><br>
+    <div id="game-container">
+        <h1>Guess the Secret Number</h1>
+        <p>Enter a number between 1 and 100:</p>
+        <input type="number" id="guess" min="1" max="10000000" placeholder="Your Guess"><br><br>
+        <button id="guess-btn">Guess</button>
+        <p id="feedback"></p>
+        <p>Guesses Left: <span id="guesses-left"></span></p>
+        <audio id="win-sound" src="win.mp3"></audio>
+        <audio id="lose-sound" src="lose.mp3"></audio>
+        <audio id="click-sound" src="click.mp3"></audio>
+    </div>
+    <a href="main.html" id="main.html">Go to Part B</a>
+    <script src="game.js"></script>
+</body>
+</html>
